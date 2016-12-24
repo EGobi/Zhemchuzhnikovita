@@ -1,0 +1,4 @@
+name: ZhemchuzhnikovitaCore
+main: io.github.egobi.zhemchuzhnikovita.Core
+version: 1.0
+commands:
